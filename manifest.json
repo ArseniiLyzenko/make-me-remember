@@ -1,6 +1,6 @@
 {
-  "short_name": "Make Me Remember",
-  "name": "Make Me Remember",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
